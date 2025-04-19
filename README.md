@@ -54,7 +54,7 @@ The application follows **Clean Architecture** principles with a clear separatio
 
 ## Project Structure
 
-\`\`\`
+```
 src/
 ├── main/
 │   ├── java/
@@ -83,7 +83,7 @@ src/
 │       └── db/
 │           └── migration/              # Flyway database migrations
 └── test/                               # Test classes
-\`\`\`
+```
 
 ## Technologies Used
 
